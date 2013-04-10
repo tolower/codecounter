@@ -1,0 +1,9 @@
+E:\Code\C#\CodeCounter\CodeCounter\bin\Debug\CodeCounter.exe
+E:\Code\C#\CodeCounter\CodeCounter\bin\Debug\CodeCounter.pdb
+E:\Code\C#\CodeCounter\CodeCounter\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Code\C#\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.Form1.resources
+E:\Code\C#\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.Properties.Resources.resources
+E:\Code\C#\CodeCounter\CodeCounter\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Code\C#\CodeCounter\CodeCounter\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Code\C#\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.exe
+E:\Code\C#\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.pdb
